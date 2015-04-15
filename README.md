@@ -1,10 +1,10 @@
 # HTML-for-kids
 
 ## Overall goals
-1. Introduce the concept of programming
-2. Attain comfort with the programming environment, e.g. ubuntu/gedit
-3. Learn basics of HTML
-4. Put programming into a real world context
+1. Introduce the concept of programming.
+2. Attain comfort with the programming environment, e.g. ubuntu/gedit.
+3. Learn basics of HTML.
+4. Put programming into a real world context.
 
 ## Methodology
 This is a project based course where students will build personal websites that they will launch on day one and will continue to develop throughout the course.
