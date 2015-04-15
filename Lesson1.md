@@ -1,6 +1,15 @@
 
 # Lesson 1: Build a Text-Only Web Page
 
+Date: 15/04/2015
+Subject: HTML for kids
+Class: 6th grade
+Duration of lesson: 1.5 hours
+Topic coverage (%) for 1 lesson: 10
+
+## Context of Lesson
+Introduction to programming while building a website.
+
 ## Learning objectives
 Introduce the concept of programming and discuss the different things programmers do, focus on the specific case of building websites and have students edit a simple HTML file with text, putting programming into a real world context as a result.
 
