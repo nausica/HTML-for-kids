@@ -84,5 +84,5 @@ Next class, conduct a review of what they learned last class:
 
 ## Steps for next lesson
 1. Review of what they learned last class.
-2. Introduce new formatting HTML tags: <i>, <p>, <br>, <h1>, <h2>.
+2. Introduce new formatting HTML tags: ```<i>, <p>, <br>, <h1>, <h2>```.
 3. Concept of nested tags.
