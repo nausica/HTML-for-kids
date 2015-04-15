@@ -21,7 +21,7 @@ HTML is a programming language and the tags are the commands that we give to the
 - Show the students that to begin any web page, we need to type <HTML>. This tells the computer to start reading their web page.
 - Then teach them the end tag </html>. This tells the computer to stop reading their web page.
 - Explain opening bracket and close bracket. The students then to like calling < "less than" and > "greater than".
-- Write <b> I love code </b> It is great between the HTML tags and ask the students to guess what part will show bold.
+- Write ```<b> I love code </b> It is great``` between the HTML tags and ask the students to guess what part will show bold.
 
 4. Creating the web page (Practice by doing)
 - First introduce the concept of browser. Explain that it allows you to view pages. Ask them to find the browser in the computer to make sure they know where it is.
@@ -43,5 +43,5 @@ HTML is a programming language and the tags are the commands that we give to the
 ## Assesment evidence
 
 ## Home-learning opportunities
-Ask the students to guess what not-yet-introduced HTML tags will do? E.g. after introducing <b> and <u>, try to guess <i>. Relate with word processing tools, such as Microsoft Word or Google Docs.
+Ask the students to guess what not-yet-introduced HTML tags will do? E.g. after introducing ```<b>``` and ```<u>```, try to guess ```<i>```. Relate with word processing tools, such as Microsoft Word or Google Docs.
 Ask the students to practice at home combined tags, display text bold and underlined.
