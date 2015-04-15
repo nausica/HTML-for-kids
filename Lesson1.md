@@ -2,9 +2,13 @@
 # Lesson 1: Build a Text-Only Web Page
 
 Date: 15/04/2015
+
 Subject: HTML for kids
+
 Class: 6th grade
-Duration of lesson: 1.5 hours
+
+Duration of lesson: 1.0 hours
+
 Topic coverage (%) for 1 lesson: 10
 
 ## Context of Lesson
